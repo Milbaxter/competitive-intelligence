@@ -1,0 +1,28 @@
+{
+  "company": "PLEO",
+  "linkedin_url": "https://www.linkedin.com/company/pleo-io/",
+  "data_collection_date": "2026-02-02",
+  "employee_count": "NOT FOUND",
+  "follower_count": "NOT FOUND",
+  "recent_posts": [
+    {
+      "post_1": {
+        "date": "NOT FOUND",
+        "topic": "NOT FOUND"
+      }
+    },
+    {
+      "post_2": {
+        "date": "NOT FOUND",
+        "topic": "NOT FOUND"
+      }
+    },
+    {
+      "post_3": {
+        "date": "NOT FOUND",
+        "topic": "NOT FOUND"
+      }
+    }
+  ],
+  "access_status": "LinkedIn blocked automated access (authentication wall)"
+}
